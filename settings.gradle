@@ -1,0 +1,9 @@
+rootProject.name = 'financial'
+include 'csii-financial-util'
+include 'csii-financial-api'
+include 'csii-financial-entity'
+include 'csii-financial-manager'
+include 'csii-financial-seller'
+include 'csii-financial-quartz'
+include 'csii-financial-swagger'
+
