@@ -1,4 +1,4 @@
-group 'com.suzl'
+group 'com.csii'
 version '1.0-SNAPSHOT'
 
 apply from: "$rootDir/dependencies.gradle"
