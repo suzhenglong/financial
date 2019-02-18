@@ -1,8 +1,0 @@
-dependencies {
-    compile project(":csii-financial-entity")
-    compile project(":csii-financial-util")
-    compile project(":csii-financial-swagger")
-    compile project(":csii-financial-api")
-    compile libs.mysql
-    compile libs.activemq
-}
