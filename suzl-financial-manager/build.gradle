@@ -1,0 +1,8 @@
+dependencies {
+    compile project(":suzl-financial-entity")
+    compile project(":suzl-financial-util")
+    compile project(":suzl-financial-swagger")
+    compile project(":suzl-financial-api")
+    compile libs.mysql
+    compile libs.activemq
+}

@@ -1,7 +1,0 @@
-dependencies {
-    compile project(":csii-financial-api")
-    compile libs.mysql
-    compile libs.hazelcast
-    compile libs.activemq
-    compile libs.findbugs
-}

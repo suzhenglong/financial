@@ -1,4 +1,0 @@
-dependencies{
-    compile project(":csii-financial-entity")
-    compile project(":csii-financial-util")
-}
